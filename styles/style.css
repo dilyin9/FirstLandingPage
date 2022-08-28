@@ -85,7 +85,7 @@ footer {
 }
 
 .section1_block {
-  background-image: url('/images/section1_background.jpg');
+  background-image: url('/FirstLandingPage/images/section1_background.jpg');
   background-size: cover;
   height: 707px;
   position: relative;
@@ -238,7 +238,7 @@ footer {
   margin-left: 42px;
   height: 482px;
   width: 679px;
-  background-image: url("/images/section2_image.png");
+  background-image: url("/FirstLandingPage/images/section2_image.png");
   background-size: cover;
 }
 .section2_pagination {
@@ -298,13 +298,13 @@ footer {
   margin-top: 31px;
   width: 817px;
   height: 434px;
-  background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("/images/section3_backgroundimage.png");
+  background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("/FirstLandingPage/images/section3_backgroundimage.png");
 }
 
 .section3_video button {
   background-color: #E3B873;
   border-radius: 50%;
-  background-image: url("/images/section3_polygon.png");
+  background-image: url("/FirstLandingPage/images/section3_polygon.png");
   background-position: center;
   background-repeat: no-repeat;
   border: none;
@@ -539,7 +539,7 @@ h4 {
 .section5_whiteblock {
   width: 703px;
   height: 598px;
-  background-image: url("/images/section5_image.png");
+  background-image: url("/FirstLandingPage/images/section5_image.png");
   background-size: contain;
   opacity: 80%;
 }
@@ -627,7 +627,7 @@ div[class*="section5_input"] {
   background: #E3B873;
   border: none;
   filter: drop-shadow(0px 10px 20px rgba(237, 192, 120, 0.2));
-  background-image: url('/images/section5_coins.png');
+  background-image: url('/FirstLandingPage/images/section5_coins.png');
   background-repeat: no-repeat;
   background-position: center;
   margin-left: 31px;
@@ -638,7 +638,7 @@ div[class*="section5_input"] {
   flex-direction: row;
   justify-content: flex-end;
   height: 864px;
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)), url('/images/section6_background.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)), url('/FirstLandingPage/images/section6_background.png');
 }
 .section6_leftblock .section_title {
   width: 411px;
@@ -768,14 +768,14 @@ div[class*="section5_input"] {
 }
 .feedback_buttons button:nth-child(1) {
   width: 135px;
-  background-image: url('/images/section7_button1.png');
+  background-image: url('/FirstLandingPage/images/section7_button1.png');
   background-repeat: no-repeat;
   background-position: 17px 11px;
   border-right: solid 0.75px #FFF;
 }
 .feedback_buttons button:nth-child(2) {
   width: 159px;
-  background-image: url('/images/section7_button2.png');
+  background-image: url('/FirstLandingPage/images/section7_button2.png');
   background-repeat: no-repeat;
   background-position: 17px 11px;
 }
@@ -800,7 +800,7 @@ flex-direction: column;
 justify-content: center;
 align-content: center;
 flex-wrap: wrap; 
-background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.94) 100%), url('/images/section9_background.png');
+background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.94) 100%), url('/FirstLandingPage/images/section9_background.png');
 }
 
 .section8_contacts {
@@ -889,12 +889,12 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
   border-radius: 50%;
   background: #E3B873;
   border: none;
-  background-image: url('/images/mail_icon.png');
+  background-image: url('/FirstLandingPage/images/mail_icon.png');
   background-repeat: no-repeat;
   background-position: center;
 }
 .section8_icons button:nth-child(2) {
-  background-image: url('/images/ig_icon.png');
+  background-image: url('/FirstLandingPage/images/ig_icon.png');
   margin-left: 15px;
 }
 .mobile {
@@ -935,7 +935,7 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    background-image: url('/images/section1_mobile.png');
+    background-image: url('/FirstLandingPage/images/section1_mobile.png');
   }
   .section1_elements {
     display: flex;
@@ -1008,14 +1008,14 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
     justify-content: space-between;
     align-items: center;
     height: 241.35px;
-    background-image: url('/images/section2_mobile.png');
+    background-image: url('/FirstLandingPage/images/section2_mobile.png');
     background-size: cover;
     background-repeat: no-repeat;
   }
   .circle_button {
     background-color: #E3B873;
     border-radius: 50%;
-    background-image: url(/images/go_back.png);
+    background-image: url('/FirstLandingPage/images/go_back.png');
     background-position: center;
     background-repeat: no-repeat;
     border: none;
@@ -1023,7 +1023,7 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
     height: 36px;
   }
   .section2_imagemob > button:nth-child(2) {
-    background-image: url(/images/go_forward.png);
+    background-image: url('/FirstLandingPage/images/go_forward.png');
   }
   div[class*="section2_block"] h3 {
     line-height: 19.4px;
@@ -1063,7 +1063,7 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
     margin: 41px 18px 0;
     height: 207px;
     width: unset;
-    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("/images/section3_backgroundimage_mob.png");
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url("/FirstLandingPage/images/section3_backgroundimage_mob.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -1071,7 +1071,7 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
   .section3_video button {
     width: 37px;
     height: 37px;
-    background-image: url(/images/Polygon_mob.png)
+    background-image: url('/FirstLandingPage/images/Polygon_mob.png')
   }
   .section3_divider {
     height: 29px;
@@ -1187,7 +1187,7 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
   }
   .section_6_block .section2_imagemob  {
     margin: -121px 18px 0px;
-    background-image: url('/images/section6_mob.png');
+    background-image: url('/FirstLandingPage/images/section6_mob.png');
   }
   .section6_leftblock  {
     display: flex;
@@ -1265,9 +1265,9 @@ background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24
     height: 39px;
   }
   .section8_icon {
-    background-image: url('/images/email_mobile.png');
+    background-image: url('/FirstLandingPage/images/email_mobile.png');
   }
   .section8_icons button:nth-child(2) {
-    background-image: url('/images/ig_mobile.png');
+    background-image: url('/FirstLandingPage/images/ig_mobile.png');
   }
 }
